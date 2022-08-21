@@ -40,3 +40,12 @@ body{
 
 }
 
+.rodape a{
+	text-decoration: none;
+	color: white;
+	cursor: text;
+}
+
+.rodape a:hover{
+	color: #ccc;
+}
