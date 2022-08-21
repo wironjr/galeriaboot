@@ -20,7 +20,7 @@ body{
 }
 
 .title-h1{
-	margin-top: 50px;}
+	margin-top: 80px;}
 
 .card-primeiro{
 	margin-top: 80px;
@@ -48,4 +48,9 @@ body{
 
 .rodape a:hover{
 	color: #ccc;
+}
+
+.card:hover{
+	transition: all 1s;
+	background-color: #ccc;
 }
