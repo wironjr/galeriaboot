@@ -54,3 +54,7 @@ body{
 	transition: all 1s;
 	background-color: #ccc;
 }
+
+#tabela-tamanho{
+	width: 900px;
+}
