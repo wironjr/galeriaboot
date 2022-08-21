@@ -13,7 +13,7 @@ body{
 
 .endereco{
 	color: yellow;
-	font-size: 0.7em;
+	font-size: 0.6em;
 	font-weight: bold;
 	text-align: right;
 	margin-right: 10px;
@@ -31,3 +31,12 @@ body{
 	margin-top: 10px;
 	margin-left: 20px;
 }
+
+.div-card{
+	margin-top: -10px;
+	margin-left: 130px;
+	margin-bottom: 25px;
+	width: 400px;
+
+}
+
