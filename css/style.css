@@ -28,7 +28,7 @@ body{
 }
 
 .card-meu{
-	margin-top: 10px;
+	margin-top: 20px;
 	margin-left: 20px;
 }
 
@@ -38,6 +38,10 @@ body{
 	margin-bottom: 25px;
 	width: 400px;
 
+}
+
+.rodape{
+	bottom: 0;
 }
 
 .rodape a{
@@ -59,3 +63,25 @@ body{
 	width: 900px;
 }
 
+#painel{
+	background: url(../img/painel.png) no-repeat left top;
+	padding-left: 20px;
+	
+}
+
+#marcha{
+	background: url(../img/marcha.png) no-repeat left top;
+	padding-left: 20px;
+	
+}
+
+#gas{
+	background: url(../img/gas.png) no-repeat left top;
+	padding-left: 20px;
+	
+}
+
+#box-card-atributos{
+	top: 100px;
+	left: 150px;
+}
