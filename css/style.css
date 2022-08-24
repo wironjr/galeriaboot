@@ -16,11 +16,8 @@ body{
 
   .title-nav-bar{
   	font-size: 0.7rem;
-  	z-index: 900;
+  	z-index: 0;
   }
-
- 
-
 
 
   .p-carro-opicionais {
@@ -50,6 +47,16 @@ body{
   .endereco{
   	display: none;
   }
+
+  #tabela-tamanho{
+  	width: 200px;
+  	height: 100px;
+ }
+
+
+
+.title-tela-tabela h4{
+	font-size: 0.8rem};
 
 
 } 
@@ -119,7 +126,13 @@ body{
 }
 
 #tabela-tamanho{
-	width: 900px;
+	width: 600px;
+}
+
+.title-tela-tabela{
+	text-align: center;
+	margin-top: 60px;
+	margin-left: 10px;
 }
 
 #painel{
