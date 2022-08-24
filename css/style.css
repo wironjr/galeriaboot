@@ -43,6 +43,15 @@ body{
   }
 
 
+} /*fim midia*/
+
+@media screen and (max-width: 380px){
+	.card-atributos{
+		width: 150px;
+		font-size: 0.5em;
+		margin: 0px 15px 0 0px;
+	
+	}
 }
 
 .navbar{
