@@ -20,9 +20,10 @@ body{
   }
 
   .logo-responsive{
-  
-  	position: relative;
-  	left: 140px;
+  	position: absolute;
+  	top: 10px;
+  	width: 100%;
+  	text-align: center;
   }
 
 
