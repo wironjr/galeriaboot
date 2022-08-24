@@ -19,6 +19,14 @@ body{
   	z-index: 900;
   }
 
+  .logo-responsive{
+  
+  	position: relative;
+  	left: 140px;
+  }
+
+
+
   .p-carro-opicionais {
   	width: 40%;
   	height: 30px;
