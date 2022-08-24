@@ -7,6 +7,40 @@ body{
 	background-color: #000;
 }
 
+
+@media screen and (max-width: 480px) {
+  .card-body{
+  	width: 50%;
+  	height: 150px;
+  }
+
+  .p-carro-opicionais {
+  	width: 40%;
+  	height: 30px;
+   	font-size: 0.7em;
+   	margin: 17px 0 0 0 ;
+  
+  }
+
+  .card-title{
+  	font-size: 0.7em;
+  }
+
+  .card-atributos{
+  	background-size: auto;
+  	width: 70px;
+  	height: 40px;
+  	font-size: 0.6em;
+  	margin: 0 20px 0 0px;
+  }
+
+  .card-atributos #painel, .card-atributos #marcha, .card-atributos #gas{
+  	background-image: none;
+  }
+
+
+}
+
 .navbar{
 	width: 100%;
 }
