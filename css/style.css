@@ -7,11 +7,16 @@ body{
 	background-color: #000;
 }
 
-
-@media screen and (max-width: 480px) {
+/* responsive */
+@media screen and (max-width: 540px) {
   .card-body{
   	width: 50%;
   	height: 140px;
+  }
+
+  .title-nav-bar{
+  	font-size: 0.7rem;
+  	z-index: 900;
   }
 
   .p-carro-opicionais {
