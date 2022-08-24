@@ -28,7 +28,7 @@ body{
 
   .card-atributos{
   	
-  	width: 150px;
+  	width: 160px;
   	font-weight: bold;
   	font-size: 0.5em;
   	margin: -10px 15px 0px 0;
@@ -48,7 +48,7 @@ body{
 @media screen and (max-width: 380px){
 	.card-atributos{
 		font-weight: bold;
-		width: 150px;
+		width: 160px;
 		font-size: 0.5em;
 		margin: -10px 15px 0 0px;
 
