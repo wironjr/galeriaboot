@@ -85,3 +85,8 @@ body{
 	top: 100px;
 	left: 150px;
 }
+
+
+.nav-item.dropdown .dropdown-item:active {
+  background-color: #ccc !important;
+}
